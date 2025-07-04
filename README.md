@@ -4,4 +4,5 @@
 * Learning about front-end design.
 
 # Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeschyluos&show_icons=true&theme=transparent))](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeschyluos&show_icons=true&theme=dark))](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aeschyluos&theme=dark)](https://git.io/streak-stats)

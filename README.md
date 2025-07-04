@@ -3,4 +3,5 @@
 * Currently working on a small clothing store website.
 * Learning about front-end design.
 
+# Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeschyluos)](https://github.com/anuraghazra/github-readme-stats)

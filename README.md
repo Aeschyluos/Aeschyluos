@@ -1,6 +1,6 @@
 # About
 * Majoring Computer Science in BINUS University.
-* Currently working on a small clothing store website.
+* Currently working on a clothing store website.
 * Learning about front-end design.
 
 # Github Stats

@@ -5,4 +5,4 @@
 
 # Github Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=aeschyluos&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Aeschyluos)](https://git.io/streak-stats)
